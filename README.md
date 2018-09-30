@@ -11,6 +11,11 @@ This sample is published as part of the corresponding blog article at https://ww
 * Run `python dqn.py test` to run pretrained neural network model.
 * Run `python dqn.py train` to train the model from the beginning. You can also increase FPS in game/flappy_bird.py script for faster training.
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/29462447/46260345-47340c80-c502-11e8-88ff-6ef1166360a7.gif)
+
+
+
+
 References:
 * https://github.com/sourabhv/FlapPyBird
 * https://github.com/yenchenlin/DeepLearningFlappyBird -> modified FlapPyBird game engine adjusted for reinforcement learning is used from this TensorFlow project
